@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Cursos</string>
+    <string name="cursos">Cursos</string>
+    <string name="notas">Notas</string>
+    <string name="temarios">Temarios</string>
+    <string name="detalle_cursos">  Cursos:\n
+        - Angular\n
+        - Android\n
+        - Kotlin\n
+        - Java
+    </string>
+</resources>
