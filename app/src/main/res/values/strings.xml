@@ -9,4 +9,5 @@
         - Kotlin\n
         - Java
     </string>
+    <string name="mensaje_inicio">Bienvenidos a la app de Libros</string>
 </resources>
